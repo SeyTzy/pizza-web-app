@@ -74,7 +74,7 @@ function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-display font-semibold text-foreground">លេខទូរស័ព្ទ</h3>
-                  <p className="text-muted-foreground">(+855) 996-987-77</p>
+                  <p className="text-muted-foreground">(+855) 996-498-77</p>
                 </div>
               </div>
               <div className="flex items-start gap-4">
@@ -92,9 +92,9 @@ function ContactPage() {
                 </div>
                 <div>
                   <h3 className="font-display font-semibold text-foreground">ម៉ោងបើកដំណើរការ</h3>
-                  <p className="text-muted-foreground">ចន្ទ — ព្រហស្បតិ៍៖ 11:00 — 22:00</p>
-                  <p className="text-muted-foreground">សុក្រ — សៅរ៍៖ 11:00 — 23:00</p>
-                  <p className="text-muted-foreground">អាទិត្យ៖ 12:00 — 21:00</p>
+                  <p className="text-muted-foreground">ចន្ទ - ព្រហស្បតិ៍៖ 11:00 - 22:00</p>
+                  <p className="text-muted-foreground">សុក្រ - សៅរ៍៖ 11:00 - 23:00</p>
+                  <p className="text-muted-foreground">អាទិត្យ៖ 12:00 - 21:00</p>
                 </div>
               </div>
             </div>
